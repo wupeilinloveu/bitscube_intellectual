@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorStatusBarColor">#FFFFFFFF</color>
+    <color name="colorPrimary">#FF1A4B9A</color>
+    <color name="colorSplash">#FF193668</color>
+    <color name="colorLogin">#FF869FCA</color>
+    <color name="colorLoginEditText">#FFD6D6D6</color>
+    <color name="colorPage">#FFF3F3FB</color>
+    <color name="colorText">#FF6E6565</color>
+    <color name="colorToolbarText">#FF000000</color>
+    <color name="colorGuide">#FFF3F3FB</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFE0523D</color>
+    <color name="green">#FF729412</color>
+</resources>

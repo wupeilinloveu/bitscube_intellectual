@@ -1,0 +1,125 @@
+{
+  "code": 200,
+  "data": {
+    "info": {
+      "dept_id": "35",
+      "dept_name": "研发部",
+      "dept_logo": "http://10.0.1.2/docaffix/FileLib/Dept/default.png"
+    },
+    "tags": [
+      {
+        "tag_id": 3,
+        "tag_name": "Android",
+        "sub_tags": [
+          {
+            "tag_id": 51,
+            "tag_name": "iOS"
+          }
+        ]
+      }
+    ],
+    "managers": [
+      {
+        "oa_uid": 45,
+        "name": "Ryan",
+        "mobile": "15989084722"
+      }
+    ],
+    "members": [
+      {
+        "oa_uid": 46,
+        "name": "Summer",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "Android开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 66,
+        "name": "Sami",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "前端开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 562,
+        "name": "Eason",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "Android开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 566,
+        "name": "Moo",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "PHP开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 568,
+        "name": "Ken",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "iOS开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 918,
+        "name": "Ryan",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "项目经理",
+        "state": "在职"
+      }
+    ],
+    "designers": [
+      {
+        "count": 1,
+        "level": "项目经理"
+      },
+      {
+        "count": 2,
+        "level": "Android开发工程师"
+      },
+      {
+        "count": 1,
+        "level": "iOS开发工程师"
+      }
+    ],
+    "projects": {
+      "show_more": 1,
+      "list": [
+        {
+          "project_id": 91,
+          "project_name": "Treker学生服务APP项目"
+        },
+        {
+          "project_id": 133,
+          "project_name": "Treker司机服务APP项目"
+        },
+        {
+          "project_id": 435,
+          "project_name": "Treker社会出行服务APP项目"
+        },
+        {
+          "project_id": 436,
+          "project_name": "Treker重构项目"
+        },
+        {
+          "project_id": 437,
+          "project_name": "Treker新项目"
+        },
+        {
+          "project_id": 438,
+          "project_name": "比特币项目"
+        },
+        {
+          "project_id": 446,
+          "project_name": "钱包项目"
+        },
+        {
+          "project_id": 447,
+          "project_name": "线上支付项目"
+        }
+      ]
+    }
+  },
+  "msg": "Success"
+}

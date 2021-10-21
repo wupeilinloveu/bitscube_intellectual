@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "data": {
+    "info": {
+      "oa_uid": 480,
+      "name": "Sunmer",
+      "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+      "dept_id": 29,
+      "dept_name": "研发部",
+      "job_title": "Android开发工程师",
+      "mobile": "15989084723",
+      "state": "在职"
+    },
+    "tags": [
+      {
+        "tag_id": 1,
+        "tag_name": "专业属性",
+        "sub_tags": [
+          {
+            "tag_id": 9,
+            "tag_name": "Android",
+            "selected": 1
+          },
+          {
+            "tag_id": 10,
+            "tag_name": "PHP",
+            "selected": 0
+          },
+          {
+            "tag_id": 11,
+            "tag_name": "Java",
+            "selected": 0
+          }
+        ]
+      }
+    ],
+    "projects": {
+      "show_more": 1,
+      "list": [
+        {
+          "project_id": 4155,
+          "project_name": "Treker学生服务APP项目"
+        },
+        {
+          "project_id": 4154,
+          "project_name": "Treker司机服务APP项目"
+        },
+        {
+          "project_id": 3658,
+          "project_name": "Treker社会出行服务APP项目"
+        },
+        {
+          "project_id": 3312,
+          "project_name": "Treker项目重构"
+        },
+        {
+          "project_id": 3265,
+          "project_name": "Treker新项目"
+        }
+      ]
+    }
+  },
+  "msg": "Success"
+}

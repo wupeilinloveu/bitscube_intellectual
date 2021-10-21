@@ -1,0 +1,91 @@
+{
+  "code": 200,
+  "data": {
+    "info": {
+      "project_id": 1821,
+      "project_name": "Treker学生服务APP",
+      "leader_id": 562,
+      "leader_name": "Ryan",
+      "kind": "交通出行",
+      "sub_kind": "校车出行",
+      "project_code": "201808047",
+      "dept_id": 38,
+      "dept_name": "研发部",
+      "area": "美国加利福尼亚州",
+      "scale": "上百万的下载量",
+      "is_join": 1
+    },
+    "members": [
+      {
+        "oa_uid": 46,
+        "name": "Summer",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "Android开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 66,
+        "name": "Sami",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "前端开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 562,
+        "name": "Eason",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "Android开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 566,
+        "name": "Moo",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "PHP开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 568,
+        "name": "Ken",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "iOS开发工程师",
+        "state": "在职"
+      },
+      {
+        "oa_uid": 918,
+        "name": "Ryan",
+        "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+        "job_title": "项目经理",
+        "state": "在职"
+      }
+    ],
+    "steps": [
+      {
+        "step_name": "任务下达",
+        "step_date": "2018-08-23",
+        "current": 1
+      },
+      {
+        "step_name": "输入评审",
+        "step_date": "2019-08-13",
+        "current": 0
+      },
+      {
+        "step_name": "成果评审",
+        "step_date": "2020-05-28",
+        "current": 0
+      },
+      {
+        "step_name": "最终成果评审",
+        "step_date": "2021-03-28",
+        "current": 0
+      },
+      {
+        "step_name": "项目归档",
+        "step_date": "",
+        "current": 0
+      }
+    ]
+  },
+  "msg": "Success"
+}

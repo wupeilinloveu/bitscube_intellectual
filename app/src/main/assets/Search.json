@@ -1,0 +1,140 @@
+{
+  "code": 200,
+  "data": {
+    "history": [],
+    "talents": {
+      "show_more": 0,
+      "list": [
+        {
+          "info": {
+            "oa_uid": 481,
+            "name": "Summer",
+            "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+            "mobile": "15989084723",
+            "job_title": "Android开发工程师",
+            "dept_id": 29,
+            "dept_name": "研发部"
+          },
+          "tags": [
+            {
+              "tag_id": 22,
+              "tag_name": "Android"
+            },
+            {
+              "tag_id": 47,
+              "tag_name": "Java"
+            }
+          ],
+          "projects": [
+            {
+              "project_id": 537,
+              "project_name": "Treker学生服务APP"
+            },
+            {
+              "project_id": 26,
+              "project_name": "Treker司机服务APP"
+            }
+          ]
+        },
+        {
+          "info": {
+            "oa_uid": 531,
+            "name": "Sami",
+            "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+            "mobile": "15989084724",
+            "job_title": "前端开发工程师",
+            "dept_id": 37,
+            "dept_name": "研发部"
+          },
+          "tags": [
+            {
+              "tag_id": 22,
+              "tag_name": "JavaScript"
+            },
+            {
+              "tag_id": 47,
+              "tag_name": "PHP"
+            }
+          ],
+          "projects": [
+            {
+              "project_id": 279,
+              "project_name": "Treker学生服务WEB端"
+            },
+            {
+              "project_id": 287,
+              "project_name": "Treker司机服务WEB端"
+            }
+          ]
+        },
+        {
+          "info": {
+            "oa_uid": 1286,
+            "name": "Moo",
+            "avatar": "http://10.0.1.2/docaffix/FileLib/Stuff/Piciture/1286.jpg",
+            "mobile": "15989084725",
+            "job_title": "PHP开发工程师",
+            "dept_id": 15,
+            "dept_name": "研发部"
+          },
+          "tags": [
+            {
+              "tag_id": 22,
+              "tag_name": "PHP"
+            },
+            {
+              "tag_id": 47,
+              "tag_name": "JavaScript"
+            }
+          ],
+          "projects": [
+            {
+              "project_id": 3521,
+              "project_name": "Treker学生服务接口设计"
+            },
+            {
+              "project_id": 3599,
+              "project_name": "Treker司机服务接口设计"
+            }
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "show_more": 0,
+      "list": [
+        {
+          "project_id": 1968,
+          "project_name": "Treker项目",
+          "project_obj": "",
+          "domain": "",
+          "leader_name":"Ryan",
+          "kind": "交通出行",
+          "sub_kind": "校车出行",
+          "area": "美国加利福尼亚州"
+        },
+        {
+          "project_id": 1928,
+          "project_name": "Credit Angel项目",
+          "project_obj": "",
+          "domain": "",
+          "leader_name":"John",
+          "kind": "金融服务类",
+          "sub_kind": "",
+          "area": "英国"
+        },
+        {
+          "project_id": 1814,
+          "project_name": "CreditO项目",
+          "project_obj": "",
+          "domain": "",
+          "leader_name":"John",
+          "kind": "金融服务类",
+          "sub_kind": "",
+          "area": "英国"
+        }
+      ]
+    }
+  },
+  "msg": "Success"
+}

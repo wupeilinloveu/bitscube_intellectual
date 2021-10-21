@@ -1,0 +1,345 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "project_info": {
+                "project_id": 1821,
+                "project_name": "Treker出行",
+                "leader_id": "562",
+                "leader_name": "Ryan",
+                "kind": "交通出行",
+                "sub_kind": "学校交通出行",
+                "steps": [
+                    {
+                        "step_name": "任务下达",
+                        "step_date": "2018-08-23",
+                        "current": 1
+                    },
+                    {
+                        "step_name": "输入评审",
+                        "step_date": "",
+                        "current": 0
+                    },
+                    {
+                        "step_name": "成果评审",
+                        "step_date": "",
+                        "current": 0
+                    },
+                    {
+                        "step_name": "最终成果评审",
+                        "step_date": "",
+                        "current": 0
+                    },
+                    {
+                        "step_name": "项目归档",
+                        "step_date": "",
+                        "current": 0
+                    }
+                ]
+            },
+            "talents_recommend": [
+                {
+                    "oa_uid": 1419,
+                    "name": "Summer",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "Android开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "Android"
+                        },
+                        {
+                            "tag_id": 33,
+                            "tag_name": "PHP"
+                        }
+                    ]
+                },
+                {
+                    "oa_uid": 1789,
+                    "name": "Sami",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "前端开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "JavaScript"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "English"
+                        }
+                    ]
+                },
+                {
+                    "oa_uid": 1790,
+                    "name": "Eason",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "Android开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "Java"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "Android"
+                        }
+                    ]
+                },
+               {
+                    "oa_uid": 1791,
+                    "name": "Moo",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "PHP开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "PHP"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "JavaScript"
+                        }
+                    ]
+                },
+
+               {
+                    "oa_uid": 1792,
+                    "name": "Ken",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "iOS开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "iOS"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "JavaScript"
+                        }
+                    ]
+                }
+
+            ],
+            "depts_recommend": [
+                {
+                    "dept_id": 14,
+                    "dept_name": "研发部",
+                    "dept_logo": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "member_count": 66
+                },
+                {
+                    "dept_id": 25,
+                    "dept_name": "人力资源部部",
+                    "dept_logo": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "member_count": 23
+                }
+            ],
+            "projects_recommend": [
+                {
+                    "project_id": 1199,
+                    "project_name": "Treker出行项目",
+                    "kind": "交通出行",
+                    "date": "2019-06-23"
+                },
+                {
+                    "project_id": 1240,
+                    "project_name": "Credit Angel项目",
+                    "kind": "信用卡服务类",
+                    "date": "2019-09-01"
+                },
+                {
+                    "project_id": 1241,
+                    "project_name": "CreditO项目",
+                    "kind": "信用卡服务类",
+                    "date": "2020-09-01"
+                },
+                {
+                    "project_id": 1786,
+                    "project_name": "TPay项目",
+                    "kind": "支付服务类",
+                    "date": "2020-08-07"
+                },
+                {
+                    "project_id": 1846,
+                    "project_name": "Mone项目",
+                    "kind": "其他",
+                    "date": "2021-03-01"
+                },
+                {
+                    "project_id": 1948,
+                    "project_name": "Layout项目",
+                    "kind": "内部能力系统",
+                    "date": "2021-08-01"
+                }
+            ]
+        },
+        {
+            "project_info": {
+                "project_id": 581,
+                "project_name": "Credit Angel项目",
+                "leader_id": "37",
+                "leader_name": "John",
+                "kind": "信用卡服务",
+                "sub_kind": "",
+                "steps": [
+                    {
+                        "step_name": "任务下达",
+                        "step_date": "时间不详",
+                        "current": 1
+                    },
+                    {
+                        "step_name": "输入评审",
+                        "step_date": "2020-02-19",
+                        "current": 0
+                    },
+                    {
+                        "step_name": "成果评审",
+                        "step_date": "2017-10-30",
+                        "current": 0
+                    },
+                    {
+                        "step_name": "最终成果评审",
+                        "step_date": "2017-11-30",
+                        "current": 0
+                    },
+                    {
+                        "step_name": "项目归档",
+                        "step_date": "2018-01-30",
+                        "current": 0
+                    }
+                ]
+            },
+            "talents_recommend": [
+                {
+                    "oa_uid": 1419,
+                    "name": "Chris",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "PHP开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "PHP"
+                        },
+                        {
+                            "tag_id": 33,
+                            "tag_name": "iOS"
+                        }
+                    ]
+                },
+                {
+                    "oa_uid": 1789,
+                    "name": "Emily",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "Android开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "Android"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "Java"
+                        }
+                    ]
+                },
+                {
+                    "oa_uid": 1789,
+                    "name": "Gloria",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "PHP开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "PHP"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "Java"
+                        }
+                    ]
+                },
+              {
+                    "oa_uid": 1789,
+                    "name": "Hain",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "PHP开发工程师",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "PHP"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "Java"
+                        }
+                    ]
+                },
+                {
+                    "oa_uid": 1789,
+                    "name": "Ray",
+                    "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "job_title": "项目经理",
+                    "tags": [
+                        {
+                            "tag_id": 9,
+                            "tag_name": "PHP"
+                        },
+                        {
+                            "tag_id": 40,
+                            "tag_name": "Java"
+                        }
+                    ]
+                }
+                                       
+            ],
+            "depts_recommend": [
+                {
+                    "dept_id": 36,
+                    "dept_name": "信息科技部",
+                    "dept_logo": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "member_count": 20
+                },
+                {
+                    "dept_id": 23,
+                    "dept_name": "运营技术部",
+                    "dept_logo": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+                    "member_count": 31
+                }
+            ],
+            "projects_recommend": [
+                {
+                    "project_id": 1376,
+                    "project_name": "比特币项目",
+                    "kind": "比特币服务类",
+                    "date": "2015-11-01"
+                },
+                {
+                    "project_id": 1505,
+                    "project_name": "钱包服务项目",
+                    "kind": "旅游服务类",
+                    "date": "2017-08-01"
+                },
+                {
+                    "project_id": 1707,
+                    "project_name": "旅游服务项目",
+                    "kind": "旅游服务类",
+                    "date": "2018-12-01"
+                },
+                {
+                    "project_id": 1941,
+                    "project_name": "商场服务项目",
+                    "kind": "购买服务类",
+                    "date": "2016-12-01"
+                },
+                {
+                    "project_id": 2043,
+                    "project_name": "云支付项目",
+                    "kind": "支付服务类",
+                    "date": "2018-09-17"
+                }
+            ]
+        }
+    ],
+    "msg": "Success"
+}

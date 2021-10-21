@@ -1,0 +1,251 @@
+{
+  "code": 200,
+   "data": {
+	   "talents": [{
+			"oa_uid": 1,
+				"name": "Summer",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "Android开发工程师",
+				"mobile": "15989084723",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "Android"
+					},
+					{
+						"tag_id": 1,
+						"tag_name": "PHP"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Treker学生服务APP"
+					},
+					{
+						"project_id": 2,
+						"project_name": "Treker司机服务APP"
+					}
+				]
+			},
+			{
+				"oa_uid": 2,
+				"name": "Sami",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "前端开发工程师",
+				"mobile": "15989084724",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "JavaScript"
+					},
+					{
+						"tag_id": 1,
+						"tag_name": "English"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Treker学生服务WEB端"
+					},
+					{
+						"project_id": 2,
+						"project_name": "Treker司机服务WEB端"
+					}
+				]
+			},
+			{
+				"oa_uid": 3,
+				"name": "Moo",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "PHP开发工程师",
+				"mobile": "15989084725",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "PHP"
+					},
+					{
+						"tag_id": 1,
+						"tag_name": "JavaScript"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Treker学生服务接口设计"
+					},
+					{
+						"project_id": 2,
+						"project_name": "Treker学生服务接口设计"
+					}
+				]
+			},
+			{
+				"oa_uid": 4,
+				"name": "Eason",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "Android开发工程师",
+				"mobile": "15989084726",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "Android"
+					},
+					{
+						"tag_id": 1,
+						"tag_name": "Java"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Treker学生服务APP"
+					},
+					{
+						"project_id": 2,
+						"project_name": "Treker司机服务APP"
+					}
+				]
+			},
+			{
+				"oa_uid": 5,
+				"name": "Ken",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "iOS开发工程师",
+				"mobile": "15989084727",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "iOS"
+					},
+					{
+						"tag_id": 2,
+						"tag_name": "JavaScript"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Treker学生服务APP"
+					},
+					{
+						"project_id": 2,
+						"project_name": "Treker司机服务APP"
+					}
+				]
+			},
+			{
+				"oa_uid": 6,
+				"name": "Chris",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "PHP开发工程师",
+				"mobile": "15989084728",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "PHP"
+					},
+					{
+						"tag_id": 2,
+						"tag_name": "JavaScript"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Credit Angel接口设计"
+					},
+					{
+						"project_id": 2,
+						"project_name": "CreditO接口设计"
+					}
+				]
+			},
+			{
+				"oa_uid": 6,
+				"name": "Emily",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "Android开发工程师",
+				"mobile": "15989084722",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "Android"
+					},
+					{
+						"tag_id": 2,
+						"tag_name": "Java"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Credit Angel App开发"
+					},
+					{
+						"project_id": 2,
+						"project_name": "CreditO App开发"
+					}
+				]
+			},
+			{
+				"oa_uid": 7,
+				"name": "Gloria",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "PHP开发工程师",
+				"mobile": "15989084729",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "PHP"
+					},
+					{
+						"tag_id": 2,
+						"tag_name": "Java"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Credit Angel第三方接口开发"
+					},
+					{
+						"project_id": 2,
+						"project_name": "CreditO 第三方接口开发"
+					}
+				]
+			},
+			{
+				"oa_uid": 8,
+				"name": "Hain",
+				"avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+				"job_title": "PHP开发工程师",
+				"mobile": "15989084723",
+				"dept_id": 1,
+				"dept_name": "研发部",
+				"tags": [{
+						"tag_id": 1,
+						"tag_name": "PHP"
+					},
+					{
+						"tag_id": 2,
+						"tag_name": "Java"
+					}
+				],
+				"projects": [{
+						"project_id": 1,
+						"project_name": "Credit Angel第三方接口开发"
+					},
+					{
+						"project_id": 2,
+						"project_name": "CreditO 第三方接口开发"
+					}
+				]
+			}
+		],
+		"counts": 50
+	},
+	"msg": "Success"
+}

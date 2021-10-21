@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_home_depts_archived"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_home_depts_archived"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/my_project_content"
+        android:padding="10dp"
+        android:textSize="13sp" />
+
+</LinearLayout>

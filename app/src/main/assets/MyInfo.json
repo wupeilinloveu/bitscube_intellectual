@@ -1,0 +1,189 @@
+{
+  "code": 200,
+  "data": {
+    "info": {
+      "oa_uid": 480,
+      "name": "Emily",
+      "avatar": "http://s15.sinaimg.cn/bmiddle/51b2fccc44c00a7cd790e",
+      "dept_id": 29,
+      "dept_name": "研发部",
+      "job_title": "Android开发工程师",
+      "mobile": "15989084722",
+      "state": "在职"
+    },
+    "tags": [
+      {
+        "tag_id": 1,
+        "tag_name": "专业属性",
+        "sub_tags": [
+          {
+            "tag_id": 9,
+            "tag_name": "Android",
+            "selected": 1
+          },
+          {
+            "tag_id": 10,
+            "tag_name": "PHP",
+            "selected": 0
+          },
+          {
+            "tag_id": 11,
+            "tag_name": "Java",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "tag_id": 2,
+        "tag_name": "知识专长",
+        "sub_tags": [
+          {
+            "tag_id": 28,
+            "tag_name": "Android",
+            "selected": 1
+          },
+          {
+            "tag_id": 29,
+            "tag_name": "PHP",
+            "selected": 0
+          },
+          {
+            "tag_id": 30,
+            "tag_name": "Java",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "tag_id": 3,
+        "tag_name": "未来规划",
+        "sub_tags": [
+          {
+            "tag_id": 44,
+            "tag_name": "Android架构师",
+            "selected": 1
+          },
+          {
+            "tag_id": 45,
+            "tag_name": "PHP高级开发工程师",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "tag_id": 4,
+        "tag_name": "意向城市",
+        "sub_tags": [
+          {
+            "tag_id": 58,
+            "tag_name": "佛山",
+            "selected": 0
+          },
+          {
+            "tag_id": 59,
+            "tag_name": "广州",
+            "selected": 1
+          },
+          {
+            "tag_id": 60,
+            "tag_name": "珠海",
+            "selected": 0
+          },
+          {
+            "tag_id": 61,
+            "tag_name": "上海",
+            "selected": 0
+          },
+          {
+            "tag_id": 62,
+            "tag_name": "北京",
+            "selected": 0
+          },
+          {
+            "tag_id": 63,
+            "tag_name": "深圳",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "tag_id": 5,
+        "tag_name": "工作特长",
+        "sub_tags": [
+          {
+            "tag_id": 76,
+            "tag_name": "Android",
+            "selected": 1
+          },
+          {
+            "tag_id": 77,
+            "tag_name": "PHP",
+            "selected": 0
+          },
+          {
+            "tag_id": 78,
+            "tag_name": "Java",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "tag_id": 6,
+        "tag_name": "应用技能",
+        "sub_tags": [
+          {
+            "tag_id": 86,
+            "tag_name": "Android",
+            "selected": 1
+          },
+          {
+            "tag_id": 87,
+            "tag_name": "iOS",
+            "selected": 0
+          },
+          {
+            "tag_id": 88,
+            "tag_name": "PHP",
+            "selected": 0
+          },
+          {
+            "tag_id": 89,
+            "tag_name": "Java",
+            "selected": 0
+          },
+          {
+            "tag_id": 90,
+            "tag_name": "大数据",
+            "selected": 0
+          }
+        ]
+      }
+    ],
+    "projects": {
+      "show_more": 1,
+      "list": [
+        {
+          "project_id": 4155,
+          "project_name": "Treker学生服务APP项目"
+        },
+        {
+          "project_id": 4154,
+          "project_name": "Treker司机服务APP项目"
+        },
+        {
+          "project_id": 3658,
+          "project_name": "Treker社会出行服务APP项目"
+        },
+        {
+          "project_id": 3312,
+          "project_name": "Treker项目重构"
+        },
+        {
+          "project_id": 3265,
+          "project_name": "Treker新项目"
+        }
+      ]
+    }
+  },
+  "msg": "Success"
+}

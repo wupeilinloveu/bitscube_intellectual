@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@color/green"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_marginTop="92dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/guide_projects"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="27sp"/>
+    <TextView
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/guide_projects_content"
+        android:textColor="@color/black"
+        android:textSize="27sp"/>
+
+    <LinearLayout
+        android:layout_marginTop="14dp"
+        android:id="@+id/ll_projects"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:src="@drawable/point_off"
+            android:layout_width="25dp"
+            android:layout_height="4dp" />
+
+        <ImageView
+            android:src="@drawable/point_off"
+            android:layout_width="25dp"
+            android:layout_height="4dp"
+            android:layout_marginStart="12dp" />
+
+        <ImageView
+            android:src="@drawable/point_projects_on"
+            android:layout_width="25dp"
+            android:layout_height="4dp"
+            android:layout_marginStart="12dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

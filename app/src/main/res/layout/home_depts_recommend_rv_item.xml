@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_home_depts_recommend"
+    android:layout_height="80dp"
+    android:layout_width="wrap_content"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="42dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp">
+
+        <cn.com.bitscube_intellectual.ui.view.RoundImageView
+            android:id="@+id/img_dept_logo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@mipmap/ic_launcher" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="12dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_dept_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#41445E"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:maxLines="10" />
+
+        <TextView
+            android:layout_marginTop="7dp"
+            android:id="@+id/tv_member_count"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#41445E"
+            android:textSize="10sp"
+            tools:ignore="SmallSp" />
+
+    </LinearLayout>
+
+</LinearLayout>
